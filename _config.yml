@@ -28,7 +28,8 @@ twitter_username: uxgnod
 github_username:  uxgnod
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: Simpleyyt/jekyll-theme-next
 plugins:
   - jekyll-feed
 
